@@ -1,0 +1,10 @@
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\bin\Debug\Student Information.exe
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\bin\Debug\Student Information.pdb
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\bin\Debug\Student Information.xml
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\Student Information.vbproj.GenerateResource.Cache
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\Student Information.exe
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\Student Information.xml
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\Student Information.pdb
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\WindowsApplication1.AboutBox.resources
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kritz\Desktop\Student Information\Student Information\Student Information\obj\x86\Debug\WindowsApplication1.MainForm.resources
